@@ -1,0 +1,8 @@
+body {
+  background-color: white;
+  color: #333;
+}
+.nav-link.active {
+  font-weight: bold;
+  color: #0d6efd !important;
+}
